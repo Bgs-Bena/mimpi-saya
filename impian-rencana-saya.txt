@@ -1,6 +1,8 @@
 1. magang
     * MBKM Kemitraan 5 bulan
 2.tambah pengalaman
+  * Flutter
+  * Design UI/UX
 3. tambah skill
 4. kerjakan skripsi
 5. wisuda
